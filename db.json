@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Admin ",
+      "address": "London",
+      "email": "adam@gmail.com",
+      "contact": "8367367",
+      "id": 1
+    },
+    {
+      "name": "M.Saqib",
+      "email": "saqib@gmail.com",
+      "contact": "03074709565",
+      "address": "Lahore",
+      "id": 2
+    },
+    {
+      "name": "M.Zaman Mehmood",
+      "email": "zaman@gmail.com",
+      "contact": "03245652547",
+      "address": "Muridke",
+      "id": 3
+    },
+    {
+      "name": "Awais ",
+      "email": "awais12@gmail.com",
+      "contact": "1122334455",
+      "address": "UK",
+      "id": 4
+    }
+  ]
+}
